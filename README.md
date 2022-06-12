@@ -1,2 +1,25 @@
-# Hello world
-![KakaoTalk_20220610_012828954](https://user-images.githubusercontent.com/84507360/172897728-291ef3c8-77df-4d6d-a8da-28a167bdf403.png)
+
+# case 1 (Layer 3)
+
+Collect Image 
+
+Error Image 
+
+Test loss:  0.11211240291595459
+Test accuracy :  0.9725000262260437
+
+# case 2 (Layer 5)
+
+Collect Image 
+
+Error Image 
+
+
+
+# case 3 (Layer 7)
+
+Collect Image
+
+Error Image 
+
+
